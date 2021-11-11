@@ -1,4 +1,5 @@
 @openzeppelin/=lib/openzeppelin-contracts/
+@prb-proxy/=lib/prb-proxy/
 ds-auth/=lib/ds-auth/src/
 ds-math/=lib/ds-math/src/
 ds-note/=lib/ds-note/src/
